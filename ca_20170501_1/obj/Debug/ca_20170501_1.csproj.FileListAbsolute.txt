@@ -1,0 +1,6 @@
+d:\documents\visual studio 2017\Projects\FizzBuzzWhizz\ca_20170501_1\bin\Debug\ca_20170501_1.exe.config
+d:\documents\visual studio 2017\Projects\FizzBuzzWhizz\ca_20170501_1\bin\Debug\ca_20170501_1.exe
+d:\documents\visual studio 2017\Projects\FizzBuzzWhizz\ca_20170501_1\bin\Debug\ca_20170501_1.pdb
+d:\documents\visual studio 2017\Projects\FizzBuzzWhizz\ca_20170501_1\obj\Debug\ca_20170501_1.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2017\Projects\FizzBuzzWhizz\ca_20170501_1\obj\Debug\ca_20170501_1.exe
+d:\documents\visual studio 2017\Projects\FizzBuzzWhizz\ca_20170501_1\obj\Debug\ca_20170501_1.pdb
